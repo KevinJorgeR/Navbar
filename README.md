@@ -1,6 +1,6 @@
 # Navbar
 
-Este trabajao incluye dos versioes uno en modo claro y el otro en oscuro.
+Este trabajao incluye dos versiones uno en modo claro y el otro en oscuro.
 
 - Modo Claro
 
